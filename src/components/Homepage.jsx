@@ -11,7 +11,9 @@ export const Homepage = () => {
           <img src={image} alt="img" />
         </div>
         <section>
-          <h2>My Birthday message,</h2>
+          <h2>
+            <em>dear sweetheart,</em>
+          </h2>
           <p>
             Today I get to wish someone who has the most beautiful soul of
             anybody I know a very happy birthday! <br /> <br />
