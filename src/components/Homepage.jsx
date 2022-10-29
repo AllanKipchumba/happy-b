@@ -12,7 +12,7 @@ export const Homepage = () => {
         </div>
         <section>
           <h2>
-            <em>dear sweetheart,</em>
+            <em>dear sweetheart,</em> <br />
           </h2>
           <p>
             Today I get to wish someone who has the most beautiful soul of
